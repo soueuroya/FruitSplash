@@ -1,7 +1,7 @@
 {
-"companyName": "DanielAndBrunno",
-"productName": "Match3",
-"productVersion": "0.1",
+"companyName": "Daniel Corbi Boldrin",
+"productName": "Fruit Splash",
+"productVersion": "0.2",
 "dataUrl": "WebglBuild.data.unityweb",
 "wasmCodeUrl": "WebglBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebglBuild.wasm.framework.unityweb",
